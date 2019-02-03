@@ -75,13 +75,13 @@ https://www.asozykin.ru/deep_learning/2017/09/07/keras-installation-tensorflow
 - [для установки keras](https://anaconda.org/conda-forge/keras) (самый удобный интерфейс управления tensorflow)
 можно использовать анаконду 
  
-2.    Работать в облаке с GPU и TPU ускорителями бесплатно от GoogleColaboratory. Нужно иметь почту Gmail, GoogleDrive.Также рекомендуется использовать браузеры Chrome или Firefox.
+2.    Работать в облаке с GPU и TPU ускорителями бесплатно от GoogleColaboratory. Нужно иметь почту Gmail, GoogleDrive. Также рекомендуется использовать браузеры Chrome или Firefox.
 
 
  
 ### Для работы в облаке
  
-Используется также просто как и обычный Jupyter; подробнее написано [здесь](https://www.asozykin.ru/deep_learning/2018/04/04/Google-Colaboratory-for-Deep-Learning.html).
+Используется также как и обычный Jupyter; подробнее написано [здесь](https://www.asozykin.ru/deep_learning/2018/04/04/Google-Colaboratory-for-Deep-Learning.html).
 ## Материалы и курсы для программирования на python и машинному обучению
 * https://www.coursera.org/specializations/python
 * https://www.coursera.org/learn/programming-in-python
