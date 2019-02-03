@@ -86,7 +86,7 @@ https://www.asozykin.ru/deep_learning/2017/09/07/keras-installation-tensorflow
 * https://www.coursera.org/specializations/python
 * https://www.coursera.org/learn/programming-in-python
 * https://programming086.blogspot.ru/2015/12/python-2015.html
-* Базовый курс по  ML](https://www.coursera.org/learn/machine-learning)
+* [Базовый курс по  ML](https://www.coursera.org/learn/machine-learning)
 * [В дополнение](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
 * [Keras доступен на офф сайте](https://keras.io/getting-started/sequential-model-guide/)
 * [Книги](https://drive.google.com/drive/folders/1ngisRbvktPKkRaX4pzQs9a6o_WIUubDi?usp=sharing)
