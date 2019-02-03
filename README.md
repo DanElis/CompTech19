@@ -5,9 +5,7 @@
 — Как установить плагин
 — Как его использовать
 — Как обучить нейросеть на вашей собственной выборке
-Ядро для плагина оптимизирует ручную разметку. К примеру, целые институты работают с данными с месторождения. Мы же уменьшаем время работы на порядок (несколько лет - несколько месяцев) и количество людей занятых рутинной разметкой (сотни - десятки). 
-
-
+Ядро для плагина оптимизирует ручную разметку. К примеру, целые институты работают с данными с месторождения. Ядро уменьшает время работы на порядок (несколько лет - несколько месяцев) и количество людей занятых рутинной разметкой (сотни - десятки). 
 ## Цель
 Найти оптимальное решение для выделения разломов в сейсмических изображениях с использованием нейронных сетей
 ## Задачи
@@ -98,22 +96,16 @@ https://www.asozykin.ru/deep_learning/2017/09/07/keras-installation-tensorflow
 ### Для работы в облаке
  
 Используется также просто как и обычный Jupyter; подробнее написано [здесь](https://www.asozykin.ru/deep_learning/2018/04/04/Google-Colaboratory-for-Deep-Learning.html).
-####Материалы и курсы для программирования на python 
+## Материалы и курсы для программирования на python и машинному обучению
 * https://www.coursera.org/specializations/python
 * https://www.coursera.org/learn/programming-in-python
 * https://programming086.blogspot.ru/2015/12/python-2015.html
- 
-
-## Материалы и курсы по машинному обучению, и python
-1.[Базовый курс по  ML](https://www.coursera.org/learn/machine-learning)
-
-2.[В дополнение](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
-3.[Keras доступен на офф сайте](https://keras.io/getting-started/sequential-model-guide/)
-
-4. [Книги](https://drive.google.com/drive/folders/1ngisRbvktPKkRaX4pzQs9a6o_WIUubDi?usp=sharing)
+* Базовый курс по  ML](https://www.coursera.org/learn/machine-learning)
+* [В дополнение](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
+* [Keras доступен на офф сайте](https://keras.io/getting-started/sequential-model-guide/)
+* [Книги](https://drive.google.com/drive/folders/1ngisRbvktPKkRaX4pzQs9a6o_WIUubDi?usp=sharing)
 	1. Python и машинное обучение (ru),
 	2. Библиотека Keras - инструмент глубокого обучения,
 	3. Простой Python (ru)) 
-
-5. Канал в телеграмме с подборками книг: https://t.me/python_textbooks
+* Канал в телеграмме с подборками книг: https://t.me/python_textbooks
 
