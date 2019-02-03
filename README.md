@@ -19,7 +19,6 @@
 
 * Автоэнкодер (автокодировщик) - [это нейронные сети прямого распространения](https://habr.com/ru/post/331382/), которые восстанавливают входной сигнал на выходе. Внутри у них есть скрытый слой, который представляет код, описывающий модель. Автоэнкодеры конструируются так, чтобы не было возможности точно скопировать вход на выходе. Их ограничивают в размерности кода (он меньше, чем размерность сигнала) или штрафуют за активации в коде. Входной сигнал восстанавливается с ошибками из-за потерь при кодировании, но, чтобы их минимизировать, сеть вынуждена учиться отбирать наиболее важные признаки.	
 
-* Вариационный автоэнкодер -
 * [OpendTect](https://dgbes.com/) - пакет интерпретации сейсмических данных с открытым исходным [кодом](https://github.com/OpendTect/OpendTect), который используется в отрасли. 
 [SEG-Y/PC]( http://www.xgeo.ru/index.php/ru/zagruzki/probnye-versii.html#downloads_docs_ru) - приложение для просмотра и редактирования сейсмических файлов SEG-Y/PC 
 [Документация](http://www.xgeo.ru/index.php/ru/zagruzki/probnye-versii.html#downloads_docs_ru) на него.
@@ -90,7 +89,7 @@ https://www.asozykin.ru/deep_learning/2017/09/07/keras-installation-tensorflow
 * https://programming086.blogspot.ru/2015/12/python-2015.html
 * [Базовый курс по  ML](https://www.coursera.org/learn/machine-learning)
 * [В дополнение](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
-* [Keras доступен на офф сайте](https://keras.io/getting-started/sequential-model-guide/)
+* [Keras доступен на официальном сайте](https://keras.io/getting-started/sequential-model-guide/)
 * [Книги](https://drive.google.com/drive/folders/1ngisRbvktPKkRaX4pzQs9a6o_WIUubDi?usp=sharing)
 	1. Python и машинное обучение (ru),
 	2. Библиотека Keras - инструмент глубокого обучения,
